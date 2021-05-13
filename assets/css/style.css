@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto';
+}
+
+.navbar img {
+    width: 80px;
+}
+
+.card-text {
+   color: #212529;
+}
+
+.card-text-s {
+    font-size: 16pt;
+    color: #707070;
+}
+
+.card-text-xs {
+    font-size: 13pt;
+    color: #707070
+}
+
+.precios {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.precios-1 {
+    font-size: 20px;
+    color: #707070;
+}
+
+.precios-2 {
+    font-size: 24px;
+}
+
+footer img {
+    width: 25%;
+}
+
+footer p {
+    font-family: 'Roboto';
+    color: #707070;
+}
